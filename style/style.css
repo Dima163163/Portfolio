@@ -23,11 +23,13 @@ body {
 
 .header__nav {
 	display: inline-block;
+	margin-left: 112px;
+	margin-right: 112px;
 }
 
 .nav__list {
 	padding-left: 0;
-	padding: 0 110px 0 112px;
+	padding: 0;
 	display: -webkit-box;
 	list-style: none;
 }
