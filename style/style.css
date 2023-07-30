@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-	padding: 60px 80px;
+	margin: 60px 0 80px;
 }
 
 .header__container{
@@ -24,8 +24,6 @@ body {
 .header__nav {
 	display: inline-block;
 }
-
-
 
 .nav__list {
 	padding-left: 0;
@@ -71,6 +69,9 @@ body {
 	font-size: 22px;
 }
 
+.frilance {
+	margin-top: 80px;
+}
 
 .frilance__wrapper {
 	width: 100%;
